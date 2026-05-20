@@ -1,0 +1,7 @@
+numpy>=1.24
+pandas>=2.0
+plotly>=5.18
+streamlit>=1.28
+selenium>=4.15
+beautifulsoup4>=4.12
+webdriver-manager>=4.0
